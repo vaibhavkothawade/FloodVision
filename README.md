@@ -4,7 +4,11 @@ FloodVision is an AI-powered flood monitoring and impact assessment platform tha
 
 
 
-person and their task 
+Team Members and their Roles
 
+Tanmoy Nandi - Geospatial \& Data
 
+Vaibhav Kothawade - Computer Vision / ML
+
+Vedant Desale - Frontend \& Generative AI Agent
 
